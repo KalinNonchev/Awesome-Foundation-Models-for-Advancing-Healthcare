@@ -463,7 +463,7 @@ If you find our survey beneficial to your work, we would greatly appreciate it i
 |[Duke Breast Cancer MRI](https://www.nature.com/articles/s41416-018-0185-8) |  Genomic, MRI images, Clinical data |  922 patients  |    Multimodal learning  |[*](https://sites.duke.edu/mazurowski/resources/breast-cancer-mri-dataset/)|
 |I-SPY2 |  MRI images, Clinical data |   719 patients  |    Multimodal learning  |[*](https://www.cancerimagingarchive.net/collection/ispy2/)|
 |[TCGA virtual ST atlas](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1) | Pathology, Spatial transcriptomics | ~28.7k H&E slides / ~296M spots (32 cancer types) | Virtual ST / multimodal |[*](https://huggingface.co/datasets/ratschlab/TCGA_virtual_spatial_transcriptomics_atlas)|
-|[HEST Xenium virtual ST](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1) | Pathology, Spatial transcriptomics | 59 H&E slides / ~13M spots | Virtual ST / multimodal |[*](https://huggingface.co/datasets/ratschlab/HEST_Xenium_virtual_spatial_transcriptomics)|
+|[HEST Xenium virtual ST](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1) | Pathology, Spatial transcriptomics | 59 H&E slides / ~13.3M cells | Virtual ST / multimodal |[*](https://huggingface.co/datasets/ratschlab/HEST_Xenium_virtual_spatial_transcriptomics)|
 
 ## Large-scale comprehensive databases
 |                           Database                               | Discription   |                       Link                             |
